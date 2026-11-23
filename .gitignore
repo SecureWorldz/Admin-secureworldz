@@ -9,5 +9,6 @@ out/
 *.tsbuildinfo
 
 # env files — keep the example, ignore real credentials
-.env*
 !.env.example
+.vercel
+config.bat
